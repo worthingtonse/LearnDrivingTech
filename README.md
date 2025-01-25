@@ -1,4 +1,4 @@
-# Learn While Driving ~ Business Research
+# Learn While Driving ~ Business Research ( LearnTechDriving.com )
 Opportunity Components:
 
 1. Target Audience: Drivers and Workers with Audio-Friendly Jobs
@@ -32,6 +32,7 @@ Research Recommendations:
 6. Investigate learning retention rates for audio-based technical training
 
 Conclusions:
-1. Validate market opportunity through comprehensive research
-2. Develop prototype audio curriculum
-3. Create minimal viable product for initial testing
+1. List top Competition
+2. Validate market opportunity through comprehensive research
+3. Develop prototype audio curriculum
+4. Create minimal viable product for initial testing
