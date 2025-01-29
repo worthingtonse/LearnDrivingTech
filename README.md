@@ -1,8 +1,9 @@
 # Learn While Driving ~ Business Research ( LearnTechDriving.com )
 Opportunity Components:
 
-1. Target Audience: Drivers and Workers with Audio-Friendly Jobs
+1. Target Audience: Drivers, Computers and Workers with Audio-Friendly Jobs
 - Over 3.5 million professional truck drivers in the US
+- Over 150 Americans communte regularly
 - Additional millions in delivery, taxi, rideshare, and transportation roles
 - Significant numbers of workers in jobs like construction, warehouse, maintenance that involve repetitive tasks allowing audio learning
 
